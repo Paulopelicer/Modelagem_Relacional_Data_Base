@@ -1,0 +1,57 @@
+
+Sequence SQ_T_EMC_CATEG_VIDEO criado.
+
+
+Sequence SQ_T_EMC_CLI criado.
+
+
+Sequence SQ_T_EMC_CLI_EMAIL criado.
+
+
+Sequence SQ_T_EMC_DEPARTAMENTO criado.
+
+
+Sequence SQ_T_EMC_EMAILV1 criado.
+
+
+Sequence SQ_T_EMC_EMAILV2 criado.
+
+
+Sequence SQ_T_EMC_FORNECEDOR criado.
+
+
+Sequence SQ_T_EMC_FUNC criado.
+
+
+Sequence SQ_T_EMC_FUNC_EMAIL criado.
+
+
+Sequence SQ_T_EMC_FUNC_TELF criado.
+
+
+Sequence SQ_T_EMC_PROD_CATEGORIA criado.
+
+
+Sequence SQ_T_EMC_PROD_FORNECEDOR criado.
+
+
+Sequence SQ_T_EMC_PRODUTO criado.
+
+
+Sequence SQ_T_EMC_SAC criado.
+
+
+Sequence SQ_T_EMC_TELF_CLI criado.
+
+
+Sequence SQ_T_EMC_TELF_FUNC criado.
+
+
+Sequence SQ_T_EMC_TPO_TELF_CLI criado.
+
+
+Sequence SQ_T_EMC_VIDEO criado.
+
+
+Sequence SQ_T_EMC_VISUALIZACAO criado.
+

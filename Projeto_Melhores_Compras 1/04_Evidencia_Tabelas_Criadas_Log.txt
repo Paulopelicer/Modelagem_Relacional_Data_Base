@@ -1,0 +1,474 @@
+
+Table T_EMC_CATEG_VIDEO criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_CATEG_VIDEO alterado.
+
+
+Table T_EMC_CLI criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_CLI alterado.
+
+
+Table T_EMC_CLI_EMAIL criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_CLI_EMAIL alterado.
+
+
+Table T_EMC_DEPARTAMENTO criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_DEPARTAMENTO alterado.
+
+
+Table T_EMC_EMAILV1 criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_EMAILV1 alterado.
+
+
+Table T_EMC_EMAILV2 criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_EMAILV2 alterado.
+
+
+Table T_EMC_FORNECEDOR criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_FORNECEDOR alterado.
+
+
+Table T_EMC_FUNC criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_FUNC alterado.
+
+
+Table T_EMC_FUNC_EMAIL criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_FUNC_EMAIL alterado.
+
+
+Table T_EMC_FUNC_TELF criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_FUNC_TELF alterado.
+
+
+Table T_EMC_PF criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_PF alterado.
+
+
+Table T_EMC_PJ criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_PJ alterado.
+
+
+Table T_EMC_PROD_CATEGORIA criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_PROD_CATEGORIA alterado.
+
+
+Table T_EMC_PROD_FORNECEDOR criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_PROD_FORNECEDOR alterado.
+
+
+Table T_EMC_PRODUTO criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_PRODUTO alterado.
+
+
+Table T_EMC_SAC criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_SAC alterado.
+
+
+Table T_EMC_TELF_CLI criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_TELF_CLI alterado.
+
+
+Table T_EMC_TIPO_TELF_FUNC criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_TIPO_TELF_FUNC alterado.
+
+
+Table T_EMC_TPO_TELF_CLI criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_TPO_TELF_CLI alterado.
+
+
+Table T_EMC_VIDEO criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_VIDEO alterado.
+
+
+Table T_EMC_VISUALIZACAO criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Comment criado.
+
+
+Table T_EMC_VISUALIZACAO alterado.
+
+
+Table T_EMC_VIDEO alterado.
+
+
+Table T_EMC_CLI_EMAIL alterado.
+
+
+Table T_EMC_SAC alterado.
+
+
+Table T_EMC_CLI_EMAIL alterado.
+
+
+Table T_EMC_FUNC_EMAIL alterado.
+
+
+Table T_EMC_PROD_FORNECEDOR alterado.
+
+
+Table T_EMC_FUNC_EMAIL alterado.
+
+
+Table T_EMC_SAC alterado.
+
+
+Table T_EMC_FUNC alterado.
+
+
+Table T_EMC_FUNC_TELF alterado.
+
+
+Table T_EMC_PF alterado.
+
+
+Table T_EMC_PJ alterado.
+
+
+Table T_EMC_PRODUTO alterado.
+
+
+Table T_EMC_PROD_FORNECEDOR alterado.
+
+
+Table T_EMC_VIDEO alterado.
+
+
+Table T_EMC_SAC alterado.
+
+
+Table T_EMC_CLI alterado.
+
+
+Table T_EMC_FUNC_TELF alterado.
+
+
+Table T_EMC_TELF_CLI alterado.
+
+
+Table T_EMC_VISUALIZACAO alterado.
+
+
+Trigger ARC_ARC_2_T_EMC_PF compilado
+
+
+Trigger ARC_ARC_2_T_EMC_PJ compilado
+
